@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou Rafael Vinicius!
 
-<!--
-**RafaelVn1808/RafaelVn1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor | 🌱 Sempre aprendendo | 🚀 Apaixonado por tecnologia e inovação
 
-Here are some ideas to get you started:
+## 🌟 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Formação**: 3° semestre - Análise e Desenvolvimento de Sistemas
+📍 **Localização**: Belém-Pa/Brasil  
+🌱 **Aprendendo**: Estou aprimorando minhas habilidades em java.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+
+
+---
+
+## 📈 Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RafaelVn1808&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVn1808&layout=compact&theme=radical&langs_count=8&hide=css,html,javascript&include_langs=java)
+
+---
+
+## 📫 Entre em contato comigo
+
+- LinkedIn: [www.linkedin.com/in/rafael-almeida-ba4a92314)
+- Email: [rafaelalmeida1808@gmail.com)
+
+
+---
+
