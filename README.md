@@ -28,9 +28,9 @@
 
 ## 📫 Entre em contato comigo
 
-- LinkedIn: [www.linkedin.com/in/rafael-almeida-ba4a92314)
-- Email: [rafaelalmeida1808@gmail.com)
-
+<a href = "mailto:rafaelalmeida1808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/rafael-almeida-ba4a92314" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/rafaelvn1808/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ---
 
