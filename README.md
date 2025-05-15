@@ -24,38 +24,28 @@
   <hr/>
 
   <h2>🚀 Tecnologias e Ferramentas</h2>
-  <h3>FRONTEND</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3">
-  </p>
-  <h3>BACKEND</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" alt="Java">
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
-  </p>
-  <h3>CONTROLE DE VERSÃO</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub">
-  </p>
-  <h3>METODOLOGIAS DE TRABALHO</h3>
-  <ul>
-    <li>Scrum</li>
-    <li>Metodologias Ágeis</li>
-  </ul>
-  <h3>FRAMEWORKS</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot">
-    <img src="https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white&style=flat" alt="Spring Data JPA">
-  </p>
-  <h3>BANCO DE DADOS</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL">
-    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL">
-  </p>
-  <hr/>
+  <h2>🚀 Tecnologias e Ferramentas</h2>
+<p>
+  <!-- Linguagens e Ferramentas -->
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" alt="Java">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
+</p>
+<p>
+  <!-- Frameworks e Banco de Dados -->
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white&style=flat" alt="Spring Data JPA">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL">
+</p>
+<p>
+  <!-- Versionamento -->
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub">
+</p>
+<hr/>
 
   <h2>📈 Estatísticas</h2>
   <p>
