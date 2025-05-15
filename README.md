@@ -54,54 +54,6 @@
   </p>
   <hr/>
 
-  <h2>💼 Experiência Profissional</h2>
-  <h3>Assistente Administrativo – Polícia Científica do Pará</h3>
-  <p><em>Jan 2023 – Jan 2025</em></p>
-  <ul>
-    <li>Projetos em <strong>Java</strong> para automação de declarações (Efetivo, Temporário, Estagiário), aumentando a eficiência e padronização.</li>
-    <li>Gerenciamento de processos de admissão e prorrogação de estagiários (e‑Social, Receita Federal, contratos, folha de pagamento).</li>
-    <li>Elaboração de ofícios e portarias, controle de frequência, gestão de folha de pagamento de servidores.</li>
-    <li>Arquivamento e conferência de relatórios e formulários administrativos.</li>
-  </ul>
-
-  <h3>Estagiário Administrativo – Polícia Científica do Pará</h3>
-  <p><em>Jan 2021 – Jan 2023</em></p>
-  <ul>
-    <li>Suporte ao processo de admissão de estagiários, digitalização e conferência de documentos.</li>
-    <li>Elaboração de relatórios, formulários, ofícios e portarias.</li>
-    <li>Organização e manutenção de arquivos físicos e digitais.</li>
-  </ul>
-  <hr/>
-
-  <h2>🚧 Projetos em Destaque</h2>
-  <h3>DSList – API de Lista de Jogos (Intensivão Java Spring)</h3>
-  <p><a href="https://github.com/RafaelVn1808/dslist">Repositório</a></p>
-  <ul>
-    <li>API RESTful em <strong>Java</strong> e <strong>Spring Boot</strong> para gerenciamento de lista de jogos.</li>
-    <li>Arquitetura em camadas (Controller, Service, Repository) e uso de <strong>DTOs</strong>.</li>
-    <li>ORM com Spring Data JPA e database seeding em <strong>MySQL</strong>.</li>
-    <li>Controle de versão via <strong>Git/GitHub</strong>.</li>
-  </ul>
-
-  <h3>Sistema de Geração de Declarações – Polícia Científica do Pará</h3>
-  <p><a href="https://github.com/RafaelVn1808/declaracao2.1">Repositório</a></p>
-  <ul>
-    <li>Automação de geração de declarações para diferentes cargos com foco em cálculos e conversão de valores por extenso.</li>
-    <li>Implementação com <strong>Java</strong>, padrões de projeto, e integração com <strong>iText</strong> para criação de PDFs.</li>
-  </ul>
-  <hr/>
-
-  <h2>🎓 Certificações & Cursos</h2>
-  <ul>
-    <li><strong>Java Completo: POO + Projetos</strong> (Udemy) – 54h (em andamento)</li>
-    <li><strong>Spring Boot Expert: JPA, REST, JWT, OAuth2, Docker e AWS</strong> (Udemy) – 52h (em andamento)</li>
-    <li><strong>Algoritmos e Lógica de Programação</strong> (Udemy) – 30h</li>
-    <li><strong>Introdução ao Git e GitHub</strong> (DIO) – 3h</li>
-    <li><strong>Projetos Ágeis com SCRUM</strong> (DIO) – 3h</li>
-    <li><strong>Collections e Streams com Java</strong> (DIO) – 6h</li>
-  </ul>
-  <hr/>
-
   <h2>📫 Entre em contato comigo</h2>
   <p>
     <a href="mailto:rafaelalmeida1808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
