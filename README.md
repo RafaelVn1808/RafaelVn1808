@@ -50,7 +50,7 @@
   <h2>📈 Estatísticas</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=RafaelVn1808&show_icons=true&theme=radical" alt="Estatísticas do GitHub"><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVn1808&layout=compact&theme=radical&langs_count=8&hide=css,html,javascript&include_langs=java" alt="Linguagens mais usadas">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVn1808&layout=compact&theme=radical&langs_count=8&hide=css,html,javascript" alt="Linguagens mais usadas">
   </p>
   <hr/>
 
