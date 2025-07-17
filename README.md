@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>README – Rafael Vinicius Almeida</title>
+  
 </head>
 <body>
   <h1>👋 Olá! Eu sou o Rafael Vinicius Almeida</h1>
