@@ -32,13 +32,22 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  
+  
+
 </p>
 <p>
   <!-- Frameworks e Banco de Dados -->
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".Net">
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET">
   <img src="https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white&style=flat" alt="Spring Data JPA">
+  <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=entity-framework&logoColor=white" alt="Entity Framework">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL">
+  
 </p>
 <p>
   <!-- Versionamento -->
