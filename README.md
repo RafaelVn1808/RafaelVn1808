@@ -18,8 +18,9 @@
   <p>Sou um profissional em transição de carreira, com sólida experiência administrativa e foco atual em <strong>desenvolvimento de software</strong>. Atualmente cursando Análise e Desenvolvimento de Sistemas, busco soluções eficientes e escaláveis para automação de processos.</p>
   <ul>
     <li>🎓 <strong>Formação:</strong> Análise e Desenvolvimento de Sistemas – FACI WYDEN (2025–2027)</li>
+    <li>🎓 <strong>Formação Anterior:</strong> Análise e Desenvolvimento de Sistemas – UNAMA (2023–2025) <strong>(Trancado)</strong></li>
     <li>📍 <strong>Localização:</strong> Belém – PA, Brasil</li>
-    <li>🔍 <strong>Interesses:</strong> Java, Spring Boot, RESTful APIs</li>
+    <li>🔍 <strong>Interesses:</strong> Java, Spring Boot, Spring Data JPA, C#, .NET, ASP.NET, Entity Framework, SQL Server, MySQL, PostgreSQL, Desenvolvimento Web, RESTful APIs, Automação de Processos, Desenvolvimento de Sistemas Corporativos, Relatórios em PDF e Excel.</li>
   </ul>
   <hr/>
 
@@ -56,8 +57,10 @@
 
   <h2>📈 Estatísticas</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=RafaelVn1808&show_icons=true&theme=radical" alt="Estatísticas do GitHub"><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVn1808&layout=compact&theme=radical&langs_count=8&hide=css,html,javascript" alt="Linguagens mais usadas">
+    <img src="https://github-readme-stats.vercel.app/api?username=RafaelVn1808&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do GitHub"><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVn1808&layout=compact&theme=radical&langs_count=8&hide=css,html,javascript&count_private=true" alt="Linguagens mais usadas">
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RafaelVn1808&theme=radical&hide_border=true" alt="GitHub Streak">
   </p>
   <hr/>
 
