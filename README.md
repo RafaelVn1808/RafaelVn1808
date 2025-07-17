@@ -55,34 +55,18 @@
 </p>
 <hr/>
 
+<h2>📊 Estatísticas</h2>
 
-<h2>📈 Estatísticas</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelVn1808&show_icons=true&theme=radical&hide_border=true&count_private=true" width="360px" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVn1808&layout=compact&theme=radical&langs_count=8&hide=css,html,javascript&count_private=true" width="300px" alt="Linguagens mais usadas"/>
+</p>
 
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RafaelVn1808&show_icons=true&theme=radical&hide_border=true&count_private=true" 
-    alt="Estatísticas do GitHub" 
-    width="400px"/>
-
-  <br/>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVn1808&layout=compact&theme=radical&langs_count=8&hide=css,html,javascript&count_private=true" 
-    alt="Linguagens mais usadas" 
-    width="300px"/>
-
-  <br/>
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=RafaelVn1808&theme=radical&hide_border=true" 
-    alt="GitHub Streak"
-    width="400px"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RafaelVn1808&theme=radical&hide_border=true" width="660px" alt="GitHub Streak"/>
+</p>
 
 <hr/>
-
 
   <h2>📫 Entre em contato comigo</h2>
   <p>
