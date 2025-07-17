@@ -23,7 +23,7 @@
   </ul>
   <hr/>
 
-  <h2>🚀 Tecnologias e Ferramentas</h2>
+  
   <h2>🚀 Tecnologias e Ferramentas</h2>
 <!-- Linguagens e Ferramentas -->
 <p>
