@@ -57,44 +57,33 @@
 
   <h2>📈 Estatísticas</h2>
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; align-items: flex-start;">
+<h2>📈 Estatísticas</h2>
 
-  <figure style="flex: 1 1 300px; max-width: 350px; text-align: center;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=RafaelVn1808&show_icons=true&theme=radical&hide_border=true&count_private=true"
-      alt="Estatísticas do GitHub"
-      style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"
-    />
-    <figcaption style="margin-top: 8px; font-size: 0.9rem; color: #555;">
-      Estatísticas gerais do GitHub
-    </figcaption>
-  </figure>
+<div align="center">
 
-  <figure style="flex: 1 1 220px; max-width: 280px; text-align: center;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVn1808&layout=compact&theme=radical&langs_count=8&hide=css,html,javascript&count_private=true"
-      alt="Linguagens mais usadas"
-      style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"
-    />
-    <figcaption style="margin-top: 8px; font-size: 0.9rem; color: #555;">
-      Linguagens mais usadas
-    </figcaption>
-  </figure>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RafaelVn1808&show_icons=true&theme=radical&hide_border=true&count_private=true" 
+    alt="Estatísticas do GitHub" 
+    width="400px"/>
 
-  <figure style="flex: 1 1 220px; max-width: 280px; text-align: center;">
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=RafaelVn1808&theme=radical&hide_border=true"
-      alt="GitHub Streak"
-      style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"
-    />
-    <figcaption style="margin-top: 8px; font-size: 0.9rem; color: #555;">
-      Sequência de contribuições
-    </figcaption>
-  </figure>
+  <br/>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVn1808&layout=compact&theme=radical&langs_count=8&hide=css,html,javascript&count_private=true" 
+    alt="Linguagens mais usadas" 
+    width="300px"/>
+
+  <br/>
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=RafaelVn1808&theme=radical&hide_border=true" 
+    alt="GitHub Streak"
+    width="400px"/>
 
 </div>
 
-<hr style="margin-top: 30px; border-color: #eee;"/>
+<hr/>
+
 
   <h2>📫 Entre em contato comigo</h2>
   <p>
