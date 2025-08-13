@@ -1,12 +1,11 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  
 </head>
 <body>
-  <h1>👋 Olá! Eu sou o Rafael Vinicius Almeida</h1>
+  <h1>👋 Hello! I'm Rafael Vinicius Almeida</h1>
   <p>
     <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" alt="Java">
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
@@ -14,19 +13,17 @@
   </p>
   <hr/>
 
-  <h2>🌟 Sobre mim</h2>
-  <p>Sou um profissional em transição de carreira, com sólida experiência administrativa e foco atual em <strong>desenvolvimento de software</strong>. Atualmente cursando Análise e Desenvolvimento de Sistemas, busco soluções eficientes e escaláveis para automação de processos.</p>
+  <h2>🌟 About Me</h2>
+  <p>I am a professional in career transition, with solid administrative experience and a current focus on <strong>software development</strong>. Currently studying Systems Analysis and Development, I seek efficient and scalable solutions for process automation.</p>
   <ul>
-    <li>🎓 <strong>Formação:</strong> Análise e Desenvolvimento de Sistemas – FACI WYDEN (2025–2027)</li>
-    <li>🎓 <strong>Formação Anterior:</strong> Análise e Desenvolvimento de Sistemas – UNAMA (2023–2025) <strong>(Trancado)</strong></li>
-    <li>📍 <strong>Localização:</strong> Belém – PA, Brasil</li>
-    <li>🔍 <strong>Interesses:</strong> Java, Spring Boot, Spring Data JPA, C#, .NET, ASP.NET, Entity Framework, SQL Server, MySQL, PostgreSQL, Desenvolvimento Web, RESTful APIs, Automação de Processos, Desenvolvimento de Sistemas Corporativos, Relatórios em PDF e Excel.</li>
+    <li>🎓 <strong>Education:</strong> Systems Analysis and Development – FACI WYDEN (2025–2027)</li>
+    <li>🎓 <strong>Previous Education:</strong> Systems Analysis and Development – UNAMA (2023–2025) <strong>(On Hold)</strong></li>
+    <li>📍 <strong>Location:</strong> Belém – PA, Brazil</li>
+    <li>🔍 <strong>Interests:</strong> Java, Spring Boot, Spring Data JPA, C#, .NET, ASP.NET, Entity Framework, SQL Server, MySQL, PostgreSQL, Web Development, RESTful APIs, Process Automation, Enterprise Systems Development, PDF and Excel Reporting.</li>
   </ul>
   <hr/>
 
-  
-  <h2>🚀 Tecnologias e Ferramentas</h2>
-<!-- Linguagens e Ferramentas -->
+  <h2>🚀 Technologies & Tools</h2>
 <p>
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" alt="Java">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript">
@@ -36,7 +33,6 @@
   <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat" alt="C#">
 </p>
 
-<!-- Frameworks e Banco de Dados -->
 <p>
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot">
   <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat" alt=".NET">
@@ -49,35 +45,34 @@
 </p>
 
 <p>
-  <!-- Versionamento -->
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub">
 </p>
 <hr/>
 
-<h2>📊 Estatísticas</h2>
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelVn1808&show_icons=true&theme=radical&hide_border=true&count_private=true" width="360px" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVn1808&layout=compact&theme=radical&langs_count=8&hide=css,html,javascript&count_private=true" width="300px" alt="Linguagens mais usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelVn1808&show_icons=true&theme=radical&hide_border=true&count_private=true" width="360px" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVn1808&layout=compact&theme=radical&langs_count=8&hide=css,html,javascript&count_private=true" width="300px" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RafaelVn1808&theme=radical&hide_border=true" width="660px" alt="GitHub Streak"/>
 </p>
-
 <hr/>
 
-  <h2>📫 Entre em contato comigo</h2>
-  <p>
-    <a href="mailto:rafaelalmeida1808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-    <a href="https://www.linkedin.com/in/rafael-almeida-ba4a92314/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/rafaelvn1808/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  </p>
-  <hr/>
+<h2>📫 Contact Me</h2>
+<p>
+  <a href="mailto:rafaelalmeida1808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/rafael-almeida-ba4a92314/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/rafaelvn1808/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+<hr/>
 
-  <blockquote>
-    “Aprender nunca es demasiado; cada linha de código é uma oportunidade de evolução.”
-  </blockquote>
+<blockquote>
+  "Learning is never too much; every line of code is an opportunity to grow."
+</blockquote>
 </body>
 </html>
+
