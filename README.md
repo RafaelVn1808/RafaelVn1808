@@ -10,14 +10,14 @@
     <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat" alt="C#">
     <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=flat" alt=".NET">
     <img src="https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=dotnet&logoColor=white&style=flat" alt="ASP.NET Core">
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" alt="React">
     <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat" alt="SQL Server">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker">
   </p>
   <hr/>
 
   <h2>🌟 About Me</h2>
   <p>
-    I am a <strong>Junior Backend Developer</strong> at <strong>Polícia Científica do Pará</strong>, focused on maintaining and evolving production-ready internal systems. Expert in building <strong>REST APIs</strong> using <strong>C# and ASP.NET Core</strong>, with a strong focus on clean architecture and process automation.
+    I am a <strong>Junior Backend Developer</strong> at <strong>Polícia Científica do Pará</strong>, where I maintain and evolve internal systems in production. While my core expertise is in <strong>C# and ASP.NET Core</strong>, I also develop modern interfaces with <strong>React</strong> to create complete, end-to-end solutions.
   </p>
   <ul>
     <li>🎓 <strong>Education:</strong> Analysis and Systems Development – FACI WYDEN (2025–2026)</li>
@@ -38,6 +38,15 @@
     <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot">
     <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat" alt="SQL Server">
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL">
+  </p>
+
+  <p><strong>Frontend:</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" alt="React">
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3">
   </p>
 
   <p><strong>DevOps, Cloud & Tools:</strong></p>
