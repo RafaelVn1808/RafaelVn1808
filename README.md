@@ -17,13 +17,13 @@
 
   <h2>🌟 About Me</h2>
   <p>
-    I am a <strong>Junior Backend Developer</strong> at <strong>Polícia Científica do Pará</strong> , where I maintain and evolve internal systems in production[cite: 5]. My expertise lies in building <strong>REST APIs</strong> using <strong>C# and ASP.NET Core</strong>, focusing on performance optimization and scalable architecture[cite: 6, 16].
+    I am a <strong>Junior Backend Developer</strong> at <strong>Polícia Científica do Pará</strong>, focused on maintaining and evolving production-ready internal systems. Expert in building <strong>REST APIs</strong> using <strong>C# and ASP.NET Core</strong>, with a strong focus on clean architecture and process automation.
   </p>
   <ul>
-    <li>🎓 <strong>Education:</strong> Analysis and Systems Development – FACI WYDEN (2025–2026) [cite: 55]</li>
-    <li>🎓 <strong>Previous Education:</strong> Analysis and Systems Development – UNAMA (On Hold) [cite: 56]</li>
+    <li>🎓 <strong>Education:</strong> Analysis and Systems Development – FACI WYDEN (2025–2026)</li>
+    <li>🎓 <strong>Previous:</strong> Analysis and Systems Development – UNAMA (On Hold)</li>
     <li>📍 <strong>Location:</strong> Belém – PA, Brazil</li>
-    <li>🌎 <strong>Languages:</strong> Portuguese (Native) [cite: 65], English (B2 - Upper Intermediate) </li>
+    <li>🌎 <strong>Languages:</strong> Portuguese (Native), English (B2 - Upper Intermediate)</li>
   </ul>
   <hr/>
 
@@ -40,12 +40,12 @@
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL">
   </p>
 
-  <p><strong>DevOps, Security & Tools:</strong></p>
+  <p><strong>DevOps, Cloud & Tools:</strong></p>
   <p>
     <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker">
-    <img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat" alt="JWT">
-    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat" alt="Azure">
     <img src="https://img.shields.io/badge/-Oracle%20Cloud-F80000?logo=oracle&logoColor=white&style=flat" alt="Oracle Cloud">
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat" alt="Azure">
+    <img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat" alt="JWT">
     <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git">
     <img src="https://img.shields.io/badge/-xUnit-512BD4?style=flat" alt="xUnit">
   </p>
@@ -54,17 +54,17 @@
   <h2>📌 Featured Projects</h2>
 
   <h3>🛍️ <a href="https://github.com/RafaelVn1808/CatalagoApi">Digital Catalog Service</a></h3>
-  <p>Fullstack API for physical store catalogs with multi-store support, JWT authentication, and image management[cite: 32, 33, 35].</p>
+  <p>Fullstack API for physical store catalogs with multi-store support, JWT authentication, and image management.</p>
   <ul>
-    <li><strong>Stack:</strong> C# (ASP.NET Core 10), React 18, EF Core, PostgreSQL, Docker[cite: 39, 41, 42].</li>
-    <li><strong>Infrastructure:</strong> Vercel + Render + Supabase[cite: 43].</li>
+    <li><strong>Stack:</strong> C#, ASP.NET Core, React, EF Core, PostgreSQL, Docker.</li>
+    <li><strong>Cloud:</strong> Vercel + Render + Supabase.</li>
   </ul>
 
   <h3>💳 <a href="https://github.com/RafaelVn1808/ExpenseManagement">Expense Management System</a></h3>
-  <p>Comprehensive REST API for expense tracking with identity management and automated testing[cite: 46, 47, 48].</p>
+  <p>Comprehensive REST API for expense tracking with identity management and automated testing.</p>
   <ul>
-    <li><strong>Stack:</strong> .NET Core, JWT Refresh Token, xUnit, Moq, AutoMapper[cite: 48, 49, 50].</li>
-    <li><strong>Cloud:</strong> Deployed on <strong>Microsoft Azure</strong> and <strong>Oracle Cloud Infrastructure (OCI)</strong>.</li>
+    <li><strong>Stack:</strong> .NET Core, JWT Refresh Token, xUnit, Moq, AutoMapper.</li>
+    <li><strong>Cloud Deploy:</strong> Microsoft Azure and <strong>Oracle Cloud Infrastructure (OCI)</strong>.</li>
   </ul>
   <hr/>
 
