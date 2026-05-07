@@ -115,8 +115,8 @@ Comprehensive REST API for expense tracking with identity management and automat
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelVn1808&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelVn1808&layout=compact&theme=radical&hide_border=true&langs_count=8&include_all_commits=true" height="165" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats-six-eta-59.vercel.app/api?username=RafaelVn1808&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-six-eta-59.vercel.app/api/top-langs/?username=RafaelVn1808&layout=compact&theme=radical&hide_border=true&langs_count=8&include_all_commits=true" height="165" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
